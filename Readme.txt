@@ -1,1 +1,2 @@
-Denklemlerin k�klerinin bulunmas�nda kullan�lan y�ntemler burada yer almaktad�r.
+Denklemlerin köklerinin bulunmasında kullanılan yöntemler burada yer almaktadır.
+Matlab kodlarıdır.
