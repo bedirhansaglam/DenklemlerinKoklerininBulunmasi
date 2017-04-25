@@ -1,0 +1,1 @@
+Denklemlerin köklerinin bulunmasýnda kullanýlan yöntemler burada yer almaktadýr.
